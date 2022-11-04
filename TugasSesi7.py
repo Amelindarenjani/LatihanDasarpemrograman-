@@ -5,7 +5,7 @@ while (True):
     print('1. Hitung luas segitiga')
     print('2. Hitung luas persegi panjang')
     print('3. Menentukan angka ganjil genap')
-    print('Quit')
+    print('4. Quit')
     
     listMenu = input('Masukan pilihan : ')
 
