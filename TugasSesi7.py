@@ -36,7 +36,5 @@ while (True):
 
     else:
         menu = input("Terimakasih")
-    
-    apakahLanjut = input("Apakah ingin mencoba lagi? Y or N : ")
-    if (apakahLanjut != 'Y'):
+        print("--- --- ---")
         break
